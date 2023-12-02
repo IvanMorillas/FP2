@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1589372695 source:c:\users\beepbox\desktop\practica3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1589905894 source:c:\users\angel\desktop\practica3\main.c
+	"funcions.h"
+
+1589909017 source:c:\users\angel\desktop\practica3\funcions.c
+	"funcions.h"
+
+1589909679 c:\users\angel\desktop\practica3\funcions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1589905894 source:c:\users\ivanm\desktop\uni\fp 2\practica3\main.c
+	"funcions.h"
+
+1589909679 c:\users\ivanm\desktop\uni\fp 2\practica3\funcions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1589995913 source:c:\users\ivanm\desktop\uni\fp 2\practica 3\funcions.c
+	"funcions.h"
+
+1589909679 c:\users\ivanm\desktop\uni\fp 2\practica 3\funcions.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+
+1589905894 source:c:\users\ivanm\desktop\uni\fp 2\practica 3\main.c
+	"funcions.h"
+

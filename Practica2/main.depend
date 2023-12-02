@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1587594628 source:c:\users\beepbox\desktop\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1588625920 source:c:\users\angel\desktop\calculadora-main\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"funcions.h"
+
+1588173398 source:c:\users\angel\desktop\calculadora-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"funcions.h"
+
+1588627293 c:\users\angel\desktop\calculadora-main\funcions.h
+
+1588627602 source:c:\users\ivanm\desktop\uni\fp 2\practica 2\calculadora-main\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"funcions.h"
+
+1588627293 c:\users\ivanm\desktop\uni\fp 2\practica 2\calculadora-main\funcions.h
+
+1588173398 source:c:\users\ivanm\desktop\uni\fp 2\practica 2\calculadora-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"funcions.h"
+
+1588627602 source:c:\users\ivanm\desktop\uni\fp 2\practica 2\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"funcions.h"
+
+1588627293 c:\users\ivanm\desktop\uni\fp 2\practica 2\funcions.h
+
+1588173398 source:c:\users\ivanm\desktop\uni\fp 2\practica 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"funcions.h"
+
